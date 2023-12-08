@@ -1,0 +1,18 @@
+.card-list{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.search-container{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.search-bar{
+    height: 20px;
+    border-radius: 6px;
+    border: 2px solid black;
+    width: 500px;
+}

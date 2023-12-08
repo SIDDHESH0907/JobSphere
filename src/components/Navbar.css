@@ -1,0 +1,19 @@
+.navbar {
+  height: 70px;
+  background-color: #312d2d;
+  color: #fff;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.brand {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.search > input {
+  border-radius: 6px;
+  height: 25px;
+  border: none;
+}
